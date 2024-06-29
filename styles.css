@@ -1,0 +1,50 @@
+html{
+    background-color: beige;
+}
+
+h1{
+    position: absolute;
+    left: 720px;
+    top: 0px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+img{
+    position: absolute;
+    height: 500;
+    width: 400;
+    top: 140px;
+}
+
+img.cookie{
+    left: 240px;
+}
+
+img.eggpie{
+    left: 720px;
+}
+
+img.koreanturkey{
+    left: 1200px;
+}
+
+a.text{
+    position: absolute;
+    top: 650px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+a.cookie{
+    left: 390px;
+}
+
+a.eggpie{
+    left: 870px;
+}
+
+a.koreanturkey{
+    left: 1300px;
+}
